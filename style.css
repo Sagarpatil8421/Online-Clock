@@ -1,0 +1,56 @@
+body{
+    background-image: url('./img.jpg');
+    background-repeat: no-repeat;
+}
+.jumbotron{
+    width: 80%;
+    margin: 3% 5%;
+    background: transparent;
+}
+h1{
+    /* color: crimson; */
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color:white;
+    
+    font-family:'Times New Roman', Times, serif;
+}
+
+#navbar{
+    /* background-color:lightblue; */
+    padding: 0.3%;
+    padding-bottom: 0.1%;
+    padding-left:45% ;
+}
+
+p{
+    font-weight: bolder;
+    font-size: x-large;
+    color:lightblue;
+}
+
+hr{
+    border-top: 2px dashed black;
+    width: 77%;
+}
+
+.button{
+    background-color: rgb(107, 106, 106);
+    padding: 0.8% ;
+    font-size: large;
+    color: white;
+    border: none;
+    border-radius: 11%;
+}
+button:hover{
+    background-color:red;
+}
+
+#show_more{
+    padding: 1% 0% 1% 0%;
+    color:yellowgreen;
+    /* color:teal; */
+}
